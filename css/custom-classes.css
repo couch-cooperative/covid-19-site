@@ -47,6 +47,14 @@ a:link {
     list-style-type: none;
 }
 
+.faq > li {
+    list-style-type: none;
+    border-left: 1px solid #7a869a;
+    color: black;
+    padding-left: .5em;
+    font-style: italic;
+}
+
 .description {
     text-align: center;
     font-size: 1.5em;
